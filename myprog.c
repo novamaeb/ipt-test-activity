@@ -9,6 +9,6 @@ int main() {
    printf("Hello, I'm Jessa!");
    printf("Hi I'm GelieAnn!");
    printf("Hi I'm Ibe, also known as Gov");
-
+   printf("Hi Nova, this is Jasmine");
    return 0;
 }
